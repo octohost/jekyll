@@ -15,5 +15,3 @@ git push octohost master
 ```
 
 This repo uses the [jekyll-nginx](https://github.com/octohost/jekyll-nginx) container to serve static files.
-
-Example site \(usually\) at [http://jekyll.octohost.io](http://jekyll.octohost.io)
